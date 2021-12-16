@@ -4,12 +4,12 @@
 }
 
 .detail--column {
-    flex-basis: 24%;
-    margin: 0 2rem;
+    flex-basis: 100%;
+    margin: 2 4rem;
     border: 1px dotted rgb(173, 129, 17);
 }
 
 .assignments {
-    padding: 1rem 5rem;
+    padding: 2rem 8rem;
 }
 
